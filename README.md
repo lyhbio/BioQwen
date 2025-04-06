@@ -3,7 +3,7 @@
 ## Citation
 If you use this method or code in your research, please cite the following paper:
 
-Yinghong Li#,*, Yudong Yan#, Zhuohao Tong, Yu Wang, Yinqi Yang, Mingze Bai, Dan Pu, Jiazheng Xie, Chuan Liu, Bo Li*, Mingwei Liu, Kunxian Shu*. [Efficient fine-tuning of small-parameter large language models for biomedical bilingual multi-task applications](https://www.sciencedirect.com/science/article/abs/pii/S1568494625003953). Applied Soft Computing. 175:113084 (2025)
+Yinghong Li<sup>#,*</sup>, Yudong Yan<sup>#</sup>, Zhuohao Tong, Yu Wang, Yinqi Yang, Mingze Bai, Dan Pu, Jiazheng Xie, Chuan Liu, Bo Li<sup>*</sup>, Mingwei Liu, Kunxian Shu<sup>*</sup>. [Efficient fine-tuning of small-parameter large language models for biomedical bilingual multi-task applications](https://www.sciencedirect.com/science/article/abs/pii/S1568494625003953). Applied Soft Computing. 175:113084 (2025)
 
 **BibTeX:**
 ```bibtex
