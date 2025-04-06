@@ -1,4 +1,22 @@
-# BioQwen: A Small-Parameter, High-Performance Bilingual Model for Biomedical Multi-Tasks
+# BioQwen
+
+## Citation
+If you use this method or code in your research, please cite the following paper:
+
+**Yinghong Li, Yudong Yan, Zhuohao Tong, Yu Wang, Yinqi Yang, Mingze Bai, Dan Pu, Jiazheng Xie, Chuan Liu, Bo Li, Mingwei Liu, Kunxian Shu**, "[Efficient fine-tuning of small-parameter large language models for biomedical bilingual multi-task applications]", *Applied Soft Computing*, 2025, DOI: [https://doi.org/10.1016/j.asoc.2025.113084].
+
+**BibTeX:**
+```bibtex
+@article{Li2025,
+  author = {Li, Yinghong and Yan, Yudong and Tong, Zhuohao and Wang, Yu and Yang, Yinqi and Bai, Mingze and Pu, Dan and Xie, Jiazheng and Liu, Chuan and Li, Bo and Liu, Mingwei and Shu, Kunxian},
+  title = {Efficient fine-tuning of small-parameter large language models for biomedical bilingual multi-task applications},
+  journal = {Applied Soft Computing},
+  year = {2025},
+  volume = {175},
+  pages = {113084},
+  month = may,
+  doi = {10.1016/j.asoc.2025.113084},
+}
 
 ![Fig. 1](img/1.png)
 
